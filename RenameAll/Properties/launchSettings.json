@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RenameAll": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\working\\JavaParser.NET\\ \"*.java\" \"*.cs\""
+    }
+  }
+}
